@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Syed Hadi",
+    "description":"Hi, i am a dedicated and result-oriented individual with +4 years of experience in IT Industry. Capable of handling deadlines and delivering diverse projects. Expertise in Software Engineering and Project Supervision, have worked with both National and International corporations on delivering state of the art products that are now being used by millions of customers. Web3 & AI enthusiast, always ready to take on new challenges !",
+    "image":"profilepic.jpg",
+    "bio":"I have been part of the team that has created the largest Agri-tech platform, with millions of users. Working on several Web3 and AI driven products with numerous International clients. Implemented Fin-tech software products with international organization (GSMA) to improve loan systems. Sharpened my skills in programming frameworks like (React | Next | Node) and used them in projects. Utilizing technologies like (LangChain | TensorFlow) to integrate data driven solutions. Programming of internal and external composite portals for (Jazz | Telenor | Ufone) as VAS services. Experienced corporate working structures, time management and team building.",
+    "contactmessage":"Contact Me Here",
+    "email": "syed.hadi685@gmail.com",
+    "phone": "",
+    "github":"",
+    "project":"",
+    "address":{
+      "street":"",
+      "city":"",
+      "zip": ""
+    },
+    "website": "http://www.linkedin.com/in/syedhadi5",
+    "resumedownload":"http://www.linkedin.com/in/syedhadi5",
+    "social":[
+      {
+        "name":"email",
+        "url":"mailto: syed.hadi685@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/syedhadi5",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/SyedHadi5",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Air University",
+        "degree":"Bachelor of Science - BS, Computer Science",
+        "graduated":"2016 - 2020"
+      },
+      {
+        "school":"OPF College",
+        "degree":"Intermediate - FSC, Information Technology",
+        "graduated":"2013 - 2015"
+      },
+      {
+        "school":"Google Certificate",
+        "degree":"Project Management Professional (PMP)",
+        "graduated":"2022"
+      },
+      {
+        "school":"Harvard Certificate",
+        "degree":"Web Programming (Python and JavaScript)",
+        "graduated":"2023"
+      }
+    ],
+    "work":[
+      {
+        "company":"Volmatica Inc",
+        "title":"Software Engineering Manager",
+        "years":"Aug 2023 - Present",
+        "description":"- Working on several Web3 and AI driven products with numerous International clients \n Utilizing technologies like (LangChain | TensorFlow) to integrate data driven solutions - Maintaining teams collaboration and ensuring timely delivery of on going projects - Building and maintaining multiple business relations with clients and corporations - Gathering requirements and ensuring project scope with several stakeholders -"
+      },
+      {
+        "company":"Switch Communications",
+        "title":"Software Engineer",
+        "years":"March 2021 - Jun 2023",
+        "description":"- I have been part of the dev team that has created the largest Agri-tech platform (BKK), with millions of users - Worked on Fin-tech software products with international organization (GSMA) to improve loan systems - Sharpened my skills in programming frameworks like (React / Next / Node) and used them in projects - Programming of internal and external composite portals for (Jazz / Telenor / Ufone) as VAS services - Used tools and technologies (GitHub / AWS / Azure) for optimizing work-flow and collaborations -"
+      },
+      {
+        "company":"Confidential",
+        "title":"Solution Specialist",
+        "years":"Jan 2020 - Jan 2021",
+        "description":"- Took up the challenge of coming up with new propositions and implementation of business solutions - Acquired the skills needed to conceptualize and execute the projects in the most ideal way - Made thorough project plans and documented the progress of each individual task - Established the technology and cloud stack while maintaining the product scope - Completed, presented and defended the finalized solution successfully -"
+      },
+      {
+        "company":"Upwork",
+        "title":"Frontend Developer",
+        "years":"Nov 2018 - Nov 2019",
+        "description":"- Started my career of working for startups, gaining insights of Tech Industry - Learned and implemented front-end development technologies as per requested - Obtained skills on how to become a team player and deliver the right products on time - Came up with unique designs, implemented and deployed them after gathering requirements - Made projects up and running for the customers, resolved bugs and maintained them to perfection -"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Product Owner / Team Building / Decision Making / Data Analysis",
+        "level":"90%"
+      },
+      {
+        "name":"Project Management / Requirment Gathering / Problem Solving ",
+        "level":"90%"
+      },
+      {
+        "name":"HTML / CSS / Javascript / JSX",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs / NextJs / NodeJs / ReduxJs",
+        "level":"80%"
+      },
+      {
+        "name":"SASS / Bootstrap / MUI / TailwindCSS",
+        "level":"80%"
+      },
+      {
+        "name":"LINUX / JAVA / C# / PYTHON",
+        "level":"70%"
+      },
+      {
+        "name":"SQL / MongoDB / AWS / Azure",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Financial GSMA Platform",
+        "category":"WebApp built for great customer care",
+        "image":"02.jpg",
+        "link": "https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2017/07/Khushaal-Zamindar-A-mobile-agriculture-service-by-Telenor-Pakistan.pdf"
+      },
+      {
+        "title":"Sports Management Portal",
+        "category":"WebApp built for great sport management",
+        "image":"01.jpg",
+        "link": "https://www.bigteams.com/"
+      },
+      {
+        "title":"Agriculture Digital Hub",
+        "category":"WebApp built for great shopping exprience",
+        "image":"04.jpg",
+        "link": "https://bkk.ag/"
+      },
+      {
+        "title":"Data Driven Solutions",
+        "category":"WebApp built for great agritech guidance",
+        "image":"03.jpg",
+        "link": "https://volmatica.com/"
+      }
+    ]
+  }
+}
